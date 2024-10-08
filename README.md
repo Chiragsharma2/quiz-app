@@ -46,6 +46,15 @@ Check the leaderboard to see how you compare to others
 
 ![Screenshot 2024-10-08 165437](https://github.com/user-attachments/assets/52237c15-4f84-4cf5-8355-b06f6723e2c7)
 
+![Screenshot 2024-10-08 165455](https://github.com/user-attachments/assets/b7d65b8f-5cec-4fff-b2e9-dbd1df776044)
+
+![Screenshot 2024-10-08 165529](https://github.com/user-attachments/assets/fbcb7f28-34ec-4557-84fc-469d53ce7f4a)
+
+![Screenshot 2024-10-08 165557](https://github.com/user-attachments/assets/8523b983-bf17-4571-b952-f4f08b22a999)
+
+
+
+
 Contributing
 **Contributions are welcome! Here are a few ways you can help:**
 
